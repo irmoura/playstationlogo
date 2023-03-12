@@ -1,0 +1,11 @@
+C:\Projetos\playstationlogo\PlaystationLogo\bin\Debug\PlaystationLogo.exe.config
+C:\Projetos\playstationlogo\PlaystationLogo\bin\Debug\PlaystationLogo.exe
+C:\Projetos\playstationlogo\PlaystationLogo\bin\Debug\PlaystationLogo.pdb
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.csproj.AssemblyReference.cache
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.Form1.resources
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.Properties.Resources.resources
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.csproj.GenerateResource.cache
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.csproj.CoreCompileInputs.cache
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.exe
+C:\Projetos\playstationlogo\PlaystationLogo\obj\Debug\PlaystationLogo.pdb
